@@ -6,7 +6,10 @@
       "Bash(git init:*)",
       "Bash(git config:*)",
       "Bash(gh:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(vercel:*)",
+      "WebFetch(domain:1c8yrv4d2jj9.space.minimax.io)"
     ],
     "deny": [],
     "ask": []
